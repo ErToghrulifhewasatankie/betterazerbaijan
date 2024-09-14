@@ -1,0 +1,14 @@
+characters={
+	AZR_toghrul_iv={
+		name="Sultan Toghrul IV"
+		portraits={
+			civilian={
+				large="GFX_portrait_Toghrul_IV"
+			}
+		}
+		country_leader={
+			ideology= despotism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}

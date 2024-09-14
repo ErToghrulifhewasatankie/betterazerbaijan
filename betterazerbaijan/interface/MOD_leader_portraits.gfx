@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	# leaders we need to override in DLC go in this file
+
+    spriteType = {
+		name = "GFX_portrait_Toghrul_IV"
+		texturefile = "gfx/leaders/AZR/GFX_portrait_Toghrul_IV.dds"
+	}
